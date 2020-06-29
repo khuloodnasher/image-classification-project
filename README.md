@@ -116,7 +116,17 @@ We also define the number of epochs. we ran all the models for 30 epochs.
 
 
 
+## Construct Architecture of the Base Model:
+
+### CNN
+Layers used to build ConvNets. As we described above, a simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations 
+
+to another through a differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and Fully-
+
+Connected Layer (exactly as seen in regular Neural Networks). We will stack these layers to form a full ConvNet architecture.
 
 
+
+![](images/ugmentedarchitechture.png)
 
 
