@@ -81,7 +81,21 @@ Elastic Net,Augmentation techniques,Transfer Learning Techniques,VGG16.
 
 Validation images and their corresponding true labels (we use these labels only to validate the model and not during the training phase)
 
-We also define the number of epochs. we ran all the models for 30 epochs
+We also define the number of epochs. we ran all the models for 30 epochs.
+
+
+
+![](images/baselineaccuracy.png)
+
+
+![](images/baselineloss.png)
+
+
+![](images/RidgeLassoacc.png)
+
+
+![](images/RidgeLassoloss.png)
+
 
 
 
