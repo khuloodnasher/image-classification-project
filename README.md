@@ -134,9 +134,7 @@ Connected Layer (exactly as seen in regular Neural Networks). We will stack thes
 ![](images/results.jpeg)
 
 ## Conclusion:
-Finally, We can say that the weight of our base model and VGG 16 are the best because the Recall was 99% in base model but it was 75% in VGG16. However, the 
-
-testing accuracy is 95% in VGG16 but it is 88% in base model.
+Finally, We can say that the weight of our base model and VGG 16 are the best because the Recall was 99% in base model but it was 75% in VGG16. However, the testing accuracy is 95% in VGG16 but it is 88% in base model.
 
 Base model and VGG16 are sharing same sequense architecture , but the number of trainable paramters in base model is 3.5 milion while the number of trinable 
 
