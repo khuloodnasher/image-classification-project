@@ -1,5 +1,6 @@
-# PneumoniaDiagnosis withDeep Learning
-## X-RAY IMAGE CLASSIFICATION: By Khulood Nasher & Seyma Tas
+# Pneumonia Diagnosis Using Deep Learning Techniques
+## X-RAY IMAGE CLASSIFICATION 
+# By Khulood Nasher & Seyma Tas
 using x-ray images of pediatric patients to identify whether or not they have pneumonia
 ![](Images/mslogo.jpg)
 ## Profitable Microsoft Studios Analysis By: Khulood Nasher 
