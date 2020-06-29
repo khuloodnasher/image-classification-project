@@ -47,6 +47,10 @@ which is almost double the number.
 
 ![](images/pneumonianormaldistrib.png)
 
+![](images/pneumonianormalxray.png)
+
+
+
 
 
 
