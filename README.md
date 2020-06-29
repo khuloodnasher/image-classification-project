@@ -49,6 +49,40 @@ which is almost double the number.
 
 ![](images/pneumonianormalxray.png)
 
+# Methodology:
+
+## Question1: How is an image classification model typically designed?
+
+We can divide this process broadly into 4 steps. Each step requires a certain amount of time to execute: https://www.analyticsvidhya.com/blog/2019/01/build-image-classification-model-10-minutes/
+
+###  Loading and pre-processing Data – 30% time
+
+### Defining Model architecture – 10% time
+
+### Training the model – 50% time
+
+### Estimation of performance – 10% time
+
+Train data - used to make CNN adjust weights(parameters)
+
+Validation Data - used to make CNN adjust hyperparameters. This has to be done manually
+
+Test Data - Final testing of performance
+We will need to go back after each iteration, fine-tune my steps, and run it again. Having a solid understanding of the underlying concepts will go a long way in accelerating the entire process.
+ 
+ 
+### Training the model
+
+For training the model, we require:
+
+Training images and their corresponding true labels, used  CNN deep learning and adjust weights(parameters) through hypertuning parameters such as: Padding,Dropout, 
+
+Elastic Net,Augmentation techniques,Transfer Learning Techniques,VGG16.
+
+Validation images and their corresponding true labels (we use these labels only to validate the model and not during the training phase)
+
+We also define the number of epochs. we ran all the models for 30 epochs
+
 
 
 
