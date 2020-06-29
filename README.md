@@ -54,13 +54,11 @@ Our image data were as follows:
 ## Validation Data:
 
 There are 1102 images belonging to 2 classes:Normal and pneumonia.The Normal images in the training set  are 322 images, while the pneumonia images are 802 images 
-
 which is almost double the number.
 
 ## Test data:
 
 There are 1102 images belonging to 2 classes:Normal and pneumonia.The Normal images in the training set  are 321 images, while the pneumonia images are 781 images 
-
 which is almost double the number.
 
 ![](images/pneumonianormaldistrib.png)
@@ -94,7 +92,6 @@ We will need to go back after each iteration, fine-tune my steps, and run it aga
 For training the model, we require:
 
 Training images and their corresponding true labels, used  CNN deep learning and adjust weights(parameters) through hypertuning parameters such as: Padding,Dropout, 
-
 Elastic Net,Augmentation techniques,Transfer Learning Techniques,VGG16.
 
 Validation images and their corresponding true labels (we use these labels only to validate the model and not during the training phase)
@@ -120,9 +117,7 @@ We also define the number of epochs. we ran all the models for 30 epochs.
 
 ### CNN
 Layers used to build ConvNets. As we described above, a simple ConvNet is a sequence of layers, and every layer of a ConvNet transforms one volume of activations 
-
 to another through a differentiable function. We use three main types of layers to build ConvNet architectures: Convolutional Layer, Pooling Layer, and Fully-
-
 Connected Layer (exactly as seen in regular Neural Networks). We will stack these layers to form a full ConvNet architecture.
 
 
