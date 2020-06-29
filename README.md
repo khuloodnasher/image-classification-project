@@ -127,6 +127,6 @@ Connected Layer (exactly as seen in regular Neural Networks). We will stack thes
 
 
 
-![](images/ugmentedarchitechture.png)
+![](images/basemodelarchitichture.png)
 
 
