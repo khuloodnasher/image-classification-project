@@ -138,6 +138,7 @@ Finally, We can say that the weight of our base model and VGG 16 are the best be
 
 Base model and VGG16 are sharing same sequense architecture , but the number of trainable paramters in base model is 3.5 milion while the number of trinable 
 parameters in VGG16 are 15 milion. The good weight of parameters from base model is ideal and that's what increase the Recall metric but the transformation of the 
-image in addition to the weight of imagenet was also great for high accuracy. In conclusion, I recommed using my base model and VGG 16 as a reliable tool to be 
+image in addition to the weight of imagenet was also great for high accuracy. 
+In conclusion, I recommed using my base model and VGG 16 as a reliable tool to be 
 deployed in the medical ceneters for diagnosing pneumonia.
 
