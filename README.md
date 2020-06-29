@@ -1,4 +1,6 @@
 # Pneumonia Diagnosis Using Deep Learning Techniques
+![](images/hospital.jpeg)
+
 ## X-RAY IMAGE CLASSIFICATION 
 ###  By Khulood Nasher & Seyma Tas
 
