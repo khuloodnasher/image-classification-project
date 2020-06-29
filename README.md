@@ -129,4 +129,8 @@ Connected Layer (exactly as seen in regular Neural Networks). We will stack thes
 
 ![](images/basemodelarchitichture.png)
 
+## Summary of the Results:
+
+![](images/results.jpeg)
+
 
