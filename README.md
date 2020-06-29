@@ -17,6 +17,24 @@ Through this project, we applied deep learning CNN techniques in image classific
 
 # Obtain Data:
 
+## Preprocessing Images:
+
+* All the images were reshaped to size 150 by 150
+
+* Load image data from the hierarchical file 'chest_xray' using an image datagenerator.
+
+* define testing,training , validation.
+
+* Decode the JPEG content to RGB grids of pixels.
+
+* reshape all images to same size of 150 x 150 pixels
+
+* Convert pixels into floating point tensors
+
+* chuck data by "batch_size=32'
+
+* Rescale the pixel values( between o and 255) to the [0,1] interval.
+
 ## About the X-ray images data:
 An input of  total x-ray images of 4,704  were  downloaded  from kaggle, 
 
