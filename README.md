@@ -44,6 +44,9 @@ which is almost double the number.
 There are 1102 images belonging to 2 classes:Normal and pneumonia.The Normal images in the training set  are 321 images, while the pneumonia images are 781 images 
 
 which is almost double the number.
-. 
+
+![](images/pneumonianormaldistrib.png)
+
+
 
 
